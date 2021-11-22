@@ -1,5 +1,7 @@
 ### (नमस्ते) Hi there, I'm Sanskar - [sanskarsri] 👋
 
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
+
 ## I'm a Student and Developer:
 
 - 🔭 I’m currently working on MERN Stack
@@ -17,6 +19,28 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 <br />
+
+```javascript
+const Sanskarsri = {
+  skills: ["Full stack developer", "Competitve Coder"],
+  programming: {
+    languages: [
+      "Javascript",
+      "ReactJs",
+      "PHP",
+      "BootStrap",
+      "ExpressJS",
+      "NodeJS",
+      "C",
+      "C++",
+      "Python",
+      "CSS",
+    ],
+    databases: ["MySQL", "Mongo DB"],
+    tools: ["VSCode","Sublime", "Firebase"],
+  },
+};
+```
 
 ## Languages and Tools:
 
@@ -40,7 +64,7 @@
 <img align="left" alt="PostMan" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 
 
-<img margin-top="5px" alt="Heroku" width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
+<img alt="Heroku" width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 
 <br />
 <br />
