@@ -40,7 +40,7 @@
 <img align="left" alt="PostMan" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 
 
-<img align="left" alt="Heroku" width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
+<img margin-top="5px" alt="Heroku" width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 
 <br />
 <br />
