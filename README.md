@@ -39,14 +39,14 @@
 <img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
 
-<img align="left" alt="Sanskar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanskarsri&count_private=true&show_icons=true&hide_border=true" />
+---
 
-<div align="center">
+<img alt="Sanskar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanskarsri&count_private=true&show_icons=true&hide_border=true" />
   
 ### Show some ❤️ by starring some of the repositories!
 
-</div>
 
 [portfolio]: https://sanskar-sri.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/sanskar-srivastava-0319b3194/
