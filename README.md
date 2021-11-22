@@ -64,8 +64,6 @@ const Sanskarsri = {
 <img align="left" alt="PostMan" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img alt="Heroku" width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 
-<br />
-
 ## Some Stats:
 
 <img alt="Sanskar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanskarsri&count_private=true&show_icons=true&hide_border=true" />
