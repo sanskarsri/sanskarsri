@@ -40,6 +40,9 @@
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="C" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+
+<br />
+
 <img align="left" alt="C" width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 
 <br />
@@ -50,7 +53,7 @@
 <img alt="Sanskar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanskarsri&count_private=true&show_icons=true&hide_border=true" />
 
  <div align="center"> 
-### Show some ❤️ by starring some of the repositories!
+<h3> Show some ❤️ by starring some of the repositories!</h3>
 </div>
 
 
