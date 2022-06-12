@@ -74,6 +74,10 @@ const Sanskarsri = {
 
 <img alt="Sanskar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanskarsri&count_private=true&show_icons=true&hide_border=true" />
 
+## Visitor Count  (June 13, 2022 onwards):
+
+![Visitor Count (04/03/21 onwards)](https://profile-counter.glitch.me/{sanskarsri}/count.svg)
+
  <div align="center"> 
 <h3> Show some ❤️ by starring some of the repositories!</h3>
 </div>
