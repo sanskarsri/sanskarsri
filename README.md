@@ -72,7 +72,11 @@ const Sanskarsri = {
 
 ## Some Stats:
 
-<img alt="Sanskar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanskarsri&count_private=true&show_icons=true&hide_border=true" />
+<img alt="Sanskar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanskarsri&count_private=true&show_icons=true&hide_border=true&theme=dark" />
+
+<!-- <div>
+  <img alt="Sanskar's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarsri&layout=compact&theme=dark" />
+</div> -->
 
 ## Visitor Count  (June 13, 2022 onwards):
 
