@@ -77,6 +77,9 @@ const Sanskarsri = {
 <!-- <div>
   <img alt="Sanskar's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarsri&layout=compact&theme=dark" />
 </div> -->
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarsri&show_icons=true&theme=dark" alt="Sanskar's Github Stats" />
+</div>
 
 ## Visitor Count  (June 13, 2022 onwards):
 
