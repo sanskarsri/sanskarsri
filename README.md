@@ -1,4 +1,4 @@
-### (नमस्ते) Hi there, I'm Sanskar - [sanskarsri] 👋
+### (नमस्ते) Hi there, I'm KVN - [sanskarsri] 👋
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
@@ -9,42 +9,6 @@
 - 👯 I’m looking for future collaborations
 - 💬 Ask me about DSA and Development
 - ⚡ Fun fact: Loves MultiTasking
-
-[![website](https://img.shields.io/website?label=sanskarsri&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sanskar-sri.herokuapp.com/)
-
-```javascript
-const Sanskarsri = {
-  skills: ["Full stack developer", "Competitve Coder"],
-  improving: "true",
-  programming: {
-    languages: [
-      "Javascript",
-      "ReactJs",
-      "PHP",
-      "BootStrap",
-      "ExpressJS",
-      "NodeJS",
-      "C",
-      "C++",
-      "Python",
-      "CSS",
-    ],
-    databases: ["MySQL", "Mongo DB"],
-    tools: ["VSCode","Sublime", "Firebase"],
-  },
-};
-```
-
-## My Portfolio:
-
-#### https://sanskar-sri.herokuapp.com/
-![Image](https://github.com/sanskarsri/sanskarsri/blob/main/portfolio.PNG)
-
-## Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 <br />
 
@@ -72,10 +36,10 @@ const Sanskarsri = {
 
 ## Some Stats:
 
-<img alt="Sanskar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanskarsri&count_private=true&show_icons=true&hide_border=true&theme=dark" />
+<img alt="Sanskarsri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanskarsri&count_private=true&show_icons=true&hide_border=true&theme=dark" />
 
 <!-- <div>
-  <img alt="Sanskar's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarsri&layout=compact&theme=dark" />
+  <img alt="Sanskarsri's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarsri&layout=compact&theme=dark" />
 </div> -->
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarsri&show_icons=true&theme=dark" alt="Sanskar's Github Stats" />
