@@ -1,10 +1,9 @@
-### (नमस्ते) Hi there, I'm KVN - [sanskarsri] 👋
+### (नमस्ते) Hi there, I'm Kunwar - 👋
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
 ## I'm a Student and Developer:
 
-- 🔭 I’m currently working on MERN Stack
 - 🌱 I’m Junior Year B.Tech Student
 - 👯 I’m looking for future collaborations
 - 💬 Ask me about DSA and Development
