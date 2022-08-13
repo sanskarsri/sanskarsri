@@ -53,7 +53,3 @@
 </div>
 
 
-[portfolio]: https://sanskar-sri.herokuapp.com/
-[linkedin]: https://www.linkedin.com/in/sanskar-srivastava-0319b3194/
-[instagram]: https://www.instagram.com/its.sanskar.sri/
-[email]: mailto:sanskar0703@gmail.com
