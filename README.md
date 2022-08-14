@@ -4,7 +4,7 @@
 
 ## I'm a Student and Developer:
 
-- 🌱 I’m Junior Year B.Tech Student
+- 🌱 I’m Final Year Undergrad student
 - 👯 I’m looking for future collaborations
 - 💬 Ask me about DSA and Development
 - ⚡ Fun fact: Loves MultiTasking
