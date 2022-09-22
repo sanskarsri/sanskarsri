@@ -1,6 +1,6 @@
 ### (नमस्ते) Hi there, I'm Sanskar - [sanskarsri] 👋
 
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
+<img src="https://github.com/sanskarsri/sanskarsri/blob/main/header_.png"/>
 
 ## I'm a Student and Developer:
 
