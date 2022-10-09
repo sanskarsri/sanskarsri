@@ -44,6 +44,8 @@ const Sanskarsri = {
 
 ## Connect with me:
 
+<!-- [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Instagram][insta-shield]][insta-url] -->
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
@@ -95,3 +97,11 @@ const Sanskarsri = {
 [linkedin]: https://www.linkedin.com/in/sanskar-srivastava-0319b3194/
 [instagram]: https://www.instagram.com/its.sanskar.sri/
 [email]: mailto:sanskar0703@gmail.com
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/sanskarsrivastava/
+[insta-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=for-the-badge&logo=instagram&colorB=E4405F
+[insta-url]: https://www.linkedin.com/in/sanskarsrivastava/
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
