@@ -1,16 +1,52 @@
-### (नमस्ते) Hi there, I'm Sanskar - [sanskarsri] 👋
+### (नमस्ते) Hi there, I'm Sanskar - [sanskarsri] 🙏
 
 <img src="https://github.com/sanskarsri/sanskarsri/blob/main/header_.png"/>
 
 ## I'm a Student and Developer:
 
-- 🔭 I’m currently working on MERN Stack
+- 🔭 I’m currently working on MERN Stack 
+- ✍🏻 Love Competitive Coding
 - 🌱 I’m Final Year Undergrad student
 - 👯 I’m looking for future collaborations
 - 💬 Ask me about DSA and Development
 - ⚡ Fun fact: Loves MultiTasking
 
-[![website](https://img.shields.io/website?label=sanskarsri&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sanskar-sri.herokuapp.com/)
+<!-- [![website](https://img.shields.io/website?label=sanskarsri&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sanskar-sri.herokuapp.com/) -->
+
+---
+
+<p align="center">
+  <a href="mailto:sanskar0703@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+	<a href="https://www.linkedin.com/in/sanskar-srivastava-0319b3194/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+	<a href="https://www.instagram.com/its.sanskar.sri/">
+		<img src="https://img.shields.io/badge/-Instagram-black.svg?style=for-the-badge&logo=instagram&colorB=white" />
+	</a>
+   <a href="https://sanskar-sri.herokuapp.com/">
+		<img src="https://img.shields.io/badge/portfolio-430098?style=for-the-badge&logo=About.me&logoColor=white" />
+	</a>
+	<a href="https://www.codechef.com/users/ssri0703">
+		<img src="https://img.shields.io/badge/Codechef-FFD43B?style=for-the-badge&logo=codechef&logoColor=306998" />
+	</a>
+	<a href="https://codeforces.com/profile/sanskarsri">
+		<img src="https://img.shields.io/badge/CodeForces-00C7B7?style=for-the-badge&logo=codeforces&logoColor=white" />
+	</a>
+	<a href="https://leetcode.com/SSRI0703/">
+		<img src="https://img.shields.io/badge/LeetCode-323330?style=for-the-badge&logo=leetcode&logoColor=F7DF1E" />
+	</a>
+  
+<!-- 	<a href="https://twitter.com/">
+		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+	</a> -->
+   <a href="https://auth.geeksforgeeks.org/user/sanskar0703/practice">
+		<img src="https://img.shields.io/badge/GFG-1AA260?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+	</a>
+</p>
+
+---
 
 ```javascript
 const Sanskarsri = {
@@ -19,73 +55,95 @@ const Sanskarsri = {
   programming: {
     languages: [
       "Javascript",
-      "ReactJs",
       "PHP",
-      "BootStrap",
-      "ExpressJS",
-      "NodeJS",
       "C",
       "C++",
       "Python",
-      "CSS",
-      "AWS",
-      "Heroku"
+      "CSS"
+    ],
+    frameWorks: [
+      "ReactJs",
+      "BootStrap",
+      "ExpressJS",
+      "NodeJS",
+      "Flask"
     ],
     databases: ["MySQL", "Mongo DB"],
-    tools: ["VSCode","Sublime", "Firebase"],
+    tools: ["VSCode","Sublime", "AWS", "Heroku", "Firebase", "XAMPP"],
   },
 };
 ```
 
-## My Portfolio:
+<br />
 
-#### https://sanskar-sri.herokuapp.com/
-![Image](https://github.com/sanskarsri/sanskarsri/blob/main/portfolio.PNG)
+## ⚡ Tech Stack
 
-## Connect with me:
+### 🚀 Languages
 
-<!-- [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Instagram][insta-shield]][insta-url] -->
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/php-430098?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/mysql-323330?style=for-the-badge&logo=mysql&logoColor=F7DF1E)
+![MongoDB](https://img.shields.io/badge/MongoDB-339933?style=for-the-badge&logo=MongoDB&logoColor=white)
+
+### 🧩 Libraries & Framework
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jquey](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Expressjs](https://img.shields.io/badge/Express.js-FFD43B?style=for-the-badge&logo=express&logoColor=306998)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=61DAFB)
+
+### 🧑🏻‍💻 Tools & Platform
+
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-00599C?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+### 💻 Workspace
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 
 <br />
 
-## Languages and Tools:
+## My Portfolio
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<!--<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />-->
-<!--<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />-->
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<!--<img align='left' alt='ExpressJS' width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />-->
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mongo.svg" />
-<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="PostMan" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<img alt="Heroku" width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
+<!-- #### https://sanskar-sri.herokuapp.com/ -->
+![Image](https://github.com/sanskarsri/sanskarsri/blob/main/portfolio.PNG)
 
-## Some Stats:
+<br />
 
-<img alt="Sanskarsri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanskarsri&count_private=true&show_icons=true&hide_border=true&theme=dark" />
+## 📈 Stats
+
 
 <!-- <div>
-  <img alt="Sanskarsri's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarsri&layout=compact&theme=dark" />
+  <img alt="Sanskarsri's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarsri&layout=compact&hide_border=true&theme=dark" />
 </div> -->
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarsri&show_icons=true&theme=dark" alt="Sanskar's Github Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarsri&show_icons=true&hide_border=true&theme=dark" alt="Sanskar's Github Stats" />
+  <img alt="Sanskarsri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanskarsri&count_private=true&show_icons=true&hide_border=true&theme=dark" />
 </div>
 
-## Visitor Count  (June 13, 2022 onwards):
+<br />
+
+## Visitor Count  (June 13, 2022 onwards)
 
 ![Visitor Count (04/03/21 onwards)](https://profile-counter.glitch.me/{sanskarsri}/count.svg)
 
@@ -98,10 +156,3 @@ const Sanskarsri = {
 [instagram]: https://www.instagram.com/its.sanskar.sri/
 [email]: mailto:sanskar0703@gmail.com
 
-<!-- MARKDOWN LINKS & IMAGES -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/sanskarsrivastava/
-[insta-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=for-the-badge&logo=instagram&colorB=E4405F
-[insta-url]: https://www.linkedin.com/in/sanskarsrivastava/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
