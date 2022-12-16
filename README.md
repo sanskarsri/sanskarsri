@@ -11,7 +11,7 @@
 - 💬 Ask me about DSA and Development
 - ⚡ Fun fact: Loves MultiTasking
 
-<!-- [![website](https://img.shields.io/website?label=sanskarsri&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sanskar-sri.herokuapp.com/) -->
+<!-- [![website](https://img.shields.io/website?label=sanskarsri&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sanskar-sri.onrender.com/) -->
 
 ---
 
@@ -25,7 +25,7 @@
 	<a href="https://www.instagram.com/its.sanskar.sri/">
 		<img src="https://img.shields.io/badge/-Instagram-black.svg?style=for-the-badge&logo=instagram&colorB=white" />
 	</a>
-   <a href="https://sanskar-sri.herokuapp.com/">
+   <a href="https://sanskar-sri.onrender.com/">
 		<img src="https://img.shields.io/badge/portfolio-430098?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
 	<a href="https://www.codechef.com/users/ssri0703">
@@ -125,7 +125,7 @@ const Sanskarsri = {
 
 ## My Portfolio
 
-<!-- #### https://sanskar-sri.herokuapp.com/ -->
+<!-- #### https://sanskar-sri.onrender.com/ -->
 ![Image](https://github.com/sanskarsri/sanskarsri/blob/main/portfolio.PNG)
 
 <br />
@@ -151,7 +151,7 @@ const Sanskarsri = {
 <h3> Show some ❤️ by starring some of the repositories!</h3>
 </div>
 
-[portfolio]: https://sanskar-sri.herokuapp.com/
+[portfolio]: https://sanskar-sri.onrender.com/
 [linkedin]: https://www.linkedin.com/in/sanskar-srivastava-0319b3194/
 [instagram]: https://www.instagram.com/its.sanskar.sri/
 [email]: mailto:sanskar0703@gmail.com
