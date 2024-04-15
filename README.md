@@ -2,11 +2,10 @@
 
 <img src="https://github.com/sanskarsri/sanskarsri/blob/main/header_.png"/>
 
-## I'm a Student and Developer:
+## I'm a Software Developer Engineer:
 
 - 🔭 I’m currently working on MERN Stack 
-- ✍🏻 Love Competitive Coding
-- 🌱 I’m Final Year Undergrad student
+- ✍🏻 Love Competitive Coding <!-- - 🌱 I’m Final Year Undergrad student -->
 - 👯 I’m looking for future collaborations
 - 💬 Ask me about DSA and Development
 - ⚡ Fun fact: Loves MultiTasking
@@ -50,7 +49,7 @@
 
 ```javascript
 const Sanskarsri = {
-  skills: ["Full stack developer", "Competitve Coder"],
+  skills: ["Software Developer","Full stack developer", "Competitve Coder","Free Lancer"],
   improving: "true",
   programming: {
     languages: [
@@ -66,14 +65,20 @@ const Sanskarsri = {
       "BootStrap",
       "ExpressJS",
       "NodeJS",
-      "Flask"
+      "Flask",
+      "Laravel"
     ],
-    databases: ["MySQL", "Mongo DB"],
+    databases: ["MySQL", "Mongo DB","Timeseries DB"],
     tools: ["VSCode","Sublime", "AWS", "Heroku", "Firebase", "XAMPP"],
   },
 };
 ```
 
+<br />
+
+## Visitor Count  (June 13, 2022 onwards)
+
+![Visitor Count (04/03/21 onwards)](https://profile-counter.glitch.me/{sanskarsri}/count.svg)
 <br />
 
 ## ⚡ Tech Stack
@@ -99,6 +104,7 @@ const Sanskarsri = {
 ![Expressjs](https://img.shields.io/badge/Express.js-FFD43B?style=for-the-badge&logo=express&logoColor=306998)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-v8.0.0-red?style=for-the-badge&logo=Laravel&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=61DAFB)
 
 ### 🧑🏻‍💻 Tools & Platform
@@ -141,11 +147,6 @@ const Sanskarsri = {
   <img style="width:48%" alt="Sanskarsri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanskarsri&count_private=true&show_icons=true&hide_border=true&theme=dark" />
 </div>
 
-<br />
-
-## Visitor Count  (June 13, 2022 onwards)
-
-![Visitor Count (04/03/21 onwards)](https://profile-counter.glitch.me/{sanskarsri}/count.svg)
 
  <div align="center"> 
 <h3> Show some ❤️ by starring some of the repositories!</h3>
